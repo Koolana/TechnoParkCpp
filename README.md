@@ -1,1 +1,2 @@
-# TechnoParkCpp
+# Задача 1.
+
